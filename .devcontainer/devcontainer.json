@@ -1,5 +1,5 @@
 {
-    "name": "ACADEMIC PAGES",
+    "name": "Lewis Joseph Feik",
     "dockerComposeFile": "../docker-compose.yaml",
     "service": "jekyll-site",
     "remoteEnv": {
